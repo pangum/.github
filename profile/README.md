@@ -5,7 +5,7 @@
 - 项目实例
 - Drone插件
 - 插件
-  - _Web_（建议使用gRPC编写RESTFul接口）
+  - Web（建议使用gRPC编写RESTFul接口）
   - MQTT
   - Redis
   - gRPC
